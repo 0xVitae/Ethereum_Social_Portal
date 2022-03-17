@@ -1,5 +1,6 @@
 # Screenshot of Dapp
 In short, the app allows web3 accounts to write messages that are documented on the Rinkeby test net blockchain, and shown on the website. 
+
 <img src="https://github.com/0xVitae/My-Portal/blob/main/Portal-ScreenShot.png" width='500'/>
 
 
