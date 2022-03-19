@@ -1,5 +1,5 @@
 # Screenshot of Dapp
-In short, the dapp allows web3 wallets to write messages that are documented on the Rinkeby test net blockchain, and shown on the website. 
+In short, the dapp allows web3 wallets to write messages that are documented on the Rinkeby testnet blockchain, and shown on the website. 
 (HTML, React, ViteJS, CSS *NOT GIT REPO'D)
 
 <img src="https://github.com/0xVitae/My-Portal/blob/main/Portal-ScreenShot.png" width='500'/>
